@@ -1,0 +1,111 @@
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.Form1.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\bin\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram\DrawingProgram\obj\Debug\DrawingProgram.ResizeShape.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.ResizeShape.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.exe
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.exe
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\bin\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.ResizeShape.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 2\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.exe
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.exe
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.ResizeShape.resources
+G:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DesignPatterns\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 3\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\bin\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 4\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 5\DrawingProgram\bin\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.pdb
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Forms.DecoratorForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe
+F:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.exe
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.pdb
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Forms.DecoratorForm.resources
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+G:\School\Jaar3\DP\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.exe
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\bin\Debug\DrawingProgram.pdb
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csprojResolveAssemblyReference.cache
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Forms.DecoratorForm.resources
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.MainForm.resources
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.Properties.Resources.resources
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.ResizeShapeForm.resources
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.csproj.GenerateResource.Cache
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.exe
+C:\Users\freme\Desktop\Portfolio Projects\DesignPatterns\DrawingProgram - Part 6\DrawingProgram\obj\Debug\DrawingProgram.pdb

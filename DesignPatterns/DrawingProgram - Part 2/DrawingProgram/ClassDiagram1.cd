@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DrawingProgram.Shape">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQEQAAAAABAAAABAAAAAABgggAAAAA=</HashCode>
+      <FileName>Shapes\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawingProgram.RectangleShape">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\RectangleShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawingProgram.EllipseShape">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\EllipseShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawingProgram.Commands.MoveShapeCommand">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAABAAAAAAAAAAACAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>History\MoveShapeCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrawingProgram.Commands.ResizeShapeCommand">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQCQAAAAAAACAAAAAAAAAAAAACABAA=</HashCode>
+      <FileName>History\ResizeShapeCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrawingProgram.Commands.SelectShapeCommand">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAAAAAAAAAACAAIAAAAAAAAAAACAAA=</HashCode>
+      <FileName>History\SelectShapeCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrawingProgram.History.UndoRedoManager">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAAADAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>History\UndoRedoManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawingProgram.Commands.AddShapeCommand">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABEAAAAAAAAAACAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>History\AddShapeCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DrawingProgram.File_IO.FileInputOutput">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAAAEAAAAAAAAAAACAAAAAAAAABAAACAAAIAA=</HashCode>
+      <FileName>File IO\FileInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DrawingProgram.Commands.Command">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>History\Command.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
